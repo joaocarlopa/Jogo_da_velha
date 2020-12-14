@@ -11,8 +11,6 @@ let nove;
 let finaly;
 
 
-Window.onclick = () => {
-
 if (finaly) {
         alert('Jogo finalizado !')
         finaly = false;
@@ -35,7 +33,7 @@ if (finaly) {
     }
 
 
-}
+
 
 
 
