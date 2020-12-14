@@ -15,7 +15,8 @@ let finaly;
 
 
 
-    if (finaly) {
+document.onmousemove = () => {
+if (finaly) {
         alert('Jogo finalizado !')
         finaly = false;
 
@@ -36,9 +37,6 @@ let finaly;
 
     }
 
-
-
-document.onmousemove = () => {
     document.getElementById('check_x').onclick = () => {
 
 
