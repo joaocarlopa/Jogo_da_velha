@@ -8,19 +8,8 @@ let seis;
 let sete;
 let oito;
 let nove;
-let confere = 'nada aqui';
 let finaly;
 
-if (document.getElementById('check_x').checked) {
-
-        confere = true;
-
-
-
-
-    } else if (document.getElementById('check_circle').checked) {
-        confere = false
-    }
 
 
 
