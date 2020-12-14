@@ -2,7 +2,6 @@
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/dcc91d6bce1061b6-jogoV.png" width="1200">
 
 
 <p align="center">
@@ -10,6 +9,10 @@ ___
     <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 </p>
+
+<img src="https://readme-maker.herokuapp.com/uploads/dcc91d6bce1061b6-jogoV.png" width="1200">
+
+
 
 ___
 
