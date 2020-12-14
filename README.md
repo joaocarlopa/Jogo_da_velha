@@ -2,7 +2,7 @@
 
 ___
 
-
+<img src="https://readme-maker.herokuapp.com/uploads/dcc91d6bce1061b6-jogoV.png" width="1200">
 
 
 <p align="center">
@@ -23,7 +23,7 @@ ___
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/dcc91d6bce1061b6-jogoV.png" width="1200">
+
 
 ## :information_source: Sobre
 
