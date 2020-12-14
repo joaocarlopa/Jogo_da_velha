@@ -8,8 +8,8 @@
     border: 3px solid;
     display: flex;
     flex-direction: column;
-    max-width: 400px;
-    min-width: 400px;
+    max-width: 380px;
+    min-width: 380px;
    margin-top: -60px;
     
 }
