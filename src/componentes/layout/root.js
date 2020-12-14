@@ -8,7 +8,7 @@ let seis;
 let sete;
 let oito;
 let nove;
-let confere;
+let confere = false;
 let finaly;
 
 
