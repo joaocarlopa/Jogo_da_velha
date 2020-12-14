@@ -11,11 +11,8 @@ let nove;
 let finaly;
 
 
+document.onmouseout = () => {
 
-
-
-
-document.onmousemove = () => {
 if (finaly) {
         alert('Jogo finalizado !')
         finaly = false;
@@ -36,6 +33,14 @@ if (finaly) {
 
 
     }
+
+
+}
+
+
+
+document.onmousemove = () => {
+
 
     document.getElementById('check_x').onclick = () => {
 
