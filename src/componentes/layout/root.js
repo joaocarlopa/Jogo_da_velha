@@ -14,7 +14,7 @@ let finaly;
 
 
 
-document.onmouseout = () => {
+
     if (finaly) {
         alert('Jogo finalizado !')
         finaly = false;
@@ -35,7 +35,7 @@ document.onmouseout = () => {
 
 
     }
-}
+
 
 
 document.onmousemove = () => {
