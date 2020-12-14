@@ -11,7 +11,7 @@ let nove;
 let finaly;
 
 
-document.onclick = () => {
+document.onmouseout = () => {
 if (finaly) {
         alert('Jogo finalizado !')
         finaly = false;
