@@ -11,6 +11,7 @@ let nove;
 let finaly;
 
 
+document.onclick = () => {
 if (finaly) {
         alert('Jogo finalizado !')
         finaly = false;
@@ -32,7 +33,7 @@ if (finaly) {
 
     }
 
-
+}
 
 
 
