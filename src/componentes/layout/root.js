@@ -11,6 +11,16 @@ let nove;
 let confere = false;
 let finaly;
 
+if (document.getElementById('check_x').checked) {
+
+        confere = true;
+
+
+
+
+    } else if (document.getElementById('check_circle').checked) {
+        confere = false
+    }
 
 
 
@@ -90,16 +100,7 @@ document.onmousemove = () => {
 
     }
 
-    if (document.getElementById('check_x').checked) {
-
-        confere = true;
-
-
-
-
-    } else if (document.getElementById('check_circle').checked) {
-        confere = false
-    }
+    
 
 
 
