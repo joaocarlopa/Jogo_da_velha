@@ -8,7 +8,7 @@ let seis;
 let sete;
 let oito;
 let nove;
-let confere = false;
+let confere = 'nada aqui';
 let finaly;
 
 if (document.getElementById('check_x').checked) {
