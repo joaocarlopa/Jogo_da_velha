@@ -1,0 +1,95 @@
+
+
+
+body {
+    font-family: Oswald;
+    background-color: rgb(36, 36, 46);
+    text-align: center;
+    color: white;
+}
+
+h1, h2, h3 {
+    font-weight: 200;
+    
+}
+
+h2, h3 {
+    margin: 0;
+}
+
+.titulo {
+    font-size: 2em;
+    
+    margin-top: 50px;
+    
+}
+
+.dark {
+    cursor: pointer;
+    margin-left: 15px;
+    position: relative;
+    top: 7px;
+}
+
+.dark:hover {
+    filter: brightness(65%);
+    transition: 0.3s;
+}
+
+.white {
+    cursor: pointer;
+    margin-left: 15px;
+    position: relative;
+    top: 7px;
+}
+
+.white:hover {
+    filter: brightness(65%);
+    transition: 0.3s;
+}
+
+.user {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.user_circle {
+    margin-left: 10px;
+}
+
+#check_circle {
+    width: 40px;
+    border: 1px solid;
+    border-radius: 10px;
+    border: 1px solid  rgb(36, 36, 46);
+    position: relative;
+    top: -3px;
+    cursor: pointer;
+    background-color: rgb(36, 36, 46);
+    color: white;
+}
+
+#check_x {
+    position: relative;
+    top: -3px;
+    border-radius: 10px;
+    border: 1px solid;
+    width: 40px;
+    border-radius: 10px;
+    border: 1px solid  rgb(36, 36, 46);
+    background-color: rgb(36, 36, 46);
+    color: white;
+    
+    cursor: pointer;
+}
+
+#check_x:hover, #check_circle:hover {
+    transition: 0.3s;
+    filter: brightness(65%);
+}
+
+#check_x:active, #check_circle:active {
+    position: relative;
+    left: 1px;
+}
