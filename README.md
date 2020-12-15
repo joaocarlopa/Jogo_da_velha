@@ -11,7 +11,7 @@ ___
   </a>
 </p>
 
-<img src="https://readme-maker.herokuapp.com/uploads/dcc91d6bce1061b6-jogoV.png" width="1200">
+<img src="https://github.com/joaocarlopa/Jogo_da_velha/blob/main/jogoV.png" width="1200">
 
 ___
 
